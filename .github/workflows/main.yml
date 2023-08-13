@@ -1,0 +1,2 @@
+- name: Tagize
+  uses: langroodi/tagize@v1.0.1
