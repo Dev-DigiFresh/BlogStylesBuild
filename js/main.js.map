@@ -1,1 +1,0 @@
-{"version":3,"file":"js/main.js","mappings":"mBAIAA,QAAQC,IAAI,SAAD,OAAUC,kBAAYC,O","sources":["webpack:///./src/js/main.js"],"sourcesContent":["// Load Styles\nimport \"../scss/main.scss\";\n\n// Your app code\nconsole.log(`Hello ${process.env.HELLO}`);\n"],"names":["console","log","process","HELLO"],"sourceRoot":""}
